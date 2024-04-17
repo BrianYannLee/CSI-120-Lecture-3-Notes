@@ -9,7 +9,7 @@ namespace CSI_120_Lecture_3_Notes
 {
     internal class Program
     {
-        static void Main(string[] args)S
+        static void Main(string[] args)
         {
             IntegralVariableandMath();
             ParsingNumber();
