@@ -28,6 +28,12 @@ namespace CSI_120_Lecture_3_Notes
 
 
             }
+            /*
+             * Can an Integral hold a whole number? Yes
+             * What happens when you try to assign one: It will save its value in the variable assigned as a int type. 
+             * Why and when do you "parse" a value? When reading a user input it would be automatically be a string. Parsing would convert it to a integral type that can be use for calculation and manipulation
+             * What is the main differece between integral type? The three most superficial type is int type, decimal and bool. Int are whole numbers, decimal are rational numbers and bool are true and false. 
+             */
 
         }//end of main
         public static void IntegralVariableandMath()
